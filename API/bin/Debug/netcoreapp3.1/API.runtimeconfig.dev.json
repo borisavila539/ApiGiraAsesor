@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bavila\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bavila\\.nuget\\packages"
+    ]
+  }
+}

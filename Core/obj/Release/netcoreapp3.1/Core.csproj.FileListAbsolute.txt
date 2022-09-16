@@ -1,0 +1,16 @@
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\bin\Release\netcoreapp3.1\Core.deps.json
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.dll
+C:\Users\ksoriano\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.pdb
+C:\Users\bavila\Desktop\GiraAsesores\Core\bin\Release\netcoreapp3.1\Core.deps.json
+C:\Users\bavila\Desktop\GiraAsesores\Core\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\bavila\Desktop\GiraAsesores\Core\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\bavila\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\bavila\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\bavila\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.dll
+C:\Users\bavila\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.pdb
+C:\Users\bavila\Desktop\GiraAsesores\Core\obj\Release\netcoreapp3.1\Core.csprojAssemblyReference.cache
